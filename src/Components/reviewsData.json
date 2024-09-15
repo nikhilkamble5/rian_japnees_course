@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "review": "This course exceeded my expectations! The material was engaging and the instructor was knowledgeable. Highly recommend!",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+ 
+   
+    {
+      "id": 4,
+      "name": "Dana White",
+      "review": "An excellent course with a lot of practical examples. The quizzes were challenging but helped reinforce the material.",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+ 
+   
+    {
+      "id": 7,
+      "name": "Grace Lee",
+      "review": "I loved the course! The instructor was fantastic and the content was relevant and up-to-date. Highly recommended for anyone interested in Japanese.",
+      "rating": "⭐⭐⭐⭐⭐"
+    }
+   
+  ]
+  

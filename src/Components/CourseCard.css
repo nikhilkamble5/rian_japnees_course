@@ -1,0 +1,20 @@
+.card {
+    height: 500px; /* Set a fixed height for all cards */
+    display: flex;
+    flex-direction: column; /* Ensure children stack vertically */
+    margin-bottom: 1rem; /* Adjust margin as needed */
+  }
+  
+  .card-body {
+    flex: 1; /* Allows the body to take up the remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Space between title, text, and button */
+  }
+  
+  .course-image {
+    width: 100%; /* Full width of the card */
+    height: 300px; /* Set a fixed height for the image */
+    object-fit: cover; /* Ensure the image covers the area */
+  }
+  
